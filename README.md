@@ -119,4 +119,4 @@ Amazon customer Reviews Dataset. (n.d.). Retrieved April 08, 2021, from: [https:
 
 - - -
 
-© 2022 Sherry K coding. All Rights Reserved.
+© 2022 Sherry K coding. Project from Trilogy, All Rights Reserved.
