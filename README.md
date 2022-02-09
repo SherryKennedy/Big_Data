@@ -67,9 +67,9 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 * While there are no hard requirements for the analysis, consider steps you can take to reduce noisy data, e.g., filtering for reviews that meet a certain number of helpful votes, total votes, or both.
 
-* Submit a summary of your findings and analysis found at the bottom of the level-2 notebook folder [click here](level-2/Amazon_OutDoors_ETL_2.ipynb)
+* **Submit a summary** of your findings and analysis found at the bottom of the level-2 notebook folder [click here](level-2/Amazon_OutDoors_ETL_2.ipynb)
 
-* Other images in the folder are proof of running the files.
+* **Other images in the Images folder are proof of running the files.**
 
 - - -
 
