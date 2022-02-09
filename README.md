@@ -69,6 +69,8 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 * Submit a summary of your findings and analysis found at the bottom of the level-2 notebook folder [click here](level-2/Amazon_OutDoors_ETL_2.ipynb)
 
+* Other images in the folder are proof of running the files.
+
 - - -
 
 ## Hints and Considerations
